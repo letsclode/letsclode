@@ -26,5 +26,3 @@
 - Email: cloderaldo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cloderaldo-pampanga-2098a4162/
 
-## GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=letsclode&show_icons=true)
