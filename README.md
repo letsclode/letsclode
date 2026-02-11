@@ -23,9 +23,8 @@
 - [weatherly](https://github.com/letsclode/weatherly) - Weather app using open APIs.
 
 ## Contact
-- Email: youremail@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- X: https://x.com/yourhandle
+- Email: cloderaldo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cloderaldo-pampanga-2098a4162/
 
 ## GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=letsclode&show_icons=true)
