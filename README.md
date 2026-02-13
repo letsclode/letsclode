@@ -16,11 +16,8 @@
 - App performance and UX polish
 
 ## Featured repositories
-- [budgeting-app](https://github.com/letsclode/budgeting-app) - Personal finance app with clean UI and charts.
-- [habit-tracker](https://github.com/letsclode/habit-tracker) - Habit tracking app with reminders and streaks.
-- [flutter-starter](https://github.com/letsclode/flutter-starter) - Starter template with routing and theming.
-- [notes-app](https://github.com/letsclode/notes-app) - Simple notes app with local storage.
-- [weatherly](https://github.com/letsclode/weatherly) - Weather app using open APIs.
+- [automated-test]([https://github.com/letsclode/budgeting-app](https://github.com/letsclode/automated-test)) - Sample automated test for mulple api/web
+
 
 ## Contact
 - Email: cloderaldo@gmail.com
