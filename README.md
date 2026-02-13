@@ -16,7 +16,7 @@
 - App performance and UX polish
 
 ## Featured repositories
-- [automated-test]([https://github.com/letsclode/automated-test]) - Sample automated test for mulple api/web
+- [automated-test](https://github.com/letsclode/automated-test) - Sample automated test for mulple api/web
 
 
 ## Contact
