@@ -2,7 +2,7 @@
 # Hi, I am Cloderaldo
 
 ## About me
-- Flutter developer who enjoys building clean, practical mobile apps.
+- Software developer who enjoys building clean, practical mobile apps.
 - Learning CI/CD to automate builds and releases.
 - Always exploring better app architecture and developer workflows.
 
@@ -10,6 +10,8 @@
 - Flutter, Dart
 - Firebase, REST APIs
 - Git, GitHub Actions
+- Python - Dart - Typescript
+- Nodejs 
 
 ## Current focus
 - CI/CD for mobile apps
